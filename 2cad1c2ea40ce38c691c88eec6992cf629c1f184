@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Thu, 28 Jan 2016 04:51:12 +0100
+Reviewed-on: https://review.gerrithub.io/261433
+Project: rdo-puppet-modules/puppetlabs-haproxy
+Branch: refs/heads/recomb-original-master-16f5f51532cdd10d54c974f674166c734a8c525a
